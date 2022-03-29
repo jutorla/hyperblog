@@ -1,0 +1,27 @@
+[33mcommit 7e130f91b3afaa3a6104228f854c81b11b845229[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mcabecera[m[33m)[m
+Author: jtortola <julian.tortola@soprasteria.com>
+Date:   Tue Mar 29 09:49:08 2022 +0200
+
+    Inicio normal
+
+[1mdiff --git a/inicio.html b/inicio.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e03c337[m
+[1m--- /dev/null[m
+[1m+++ b/inicio.html[m
+[36m@@ -0,0 +1,14 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset='utf-8'>[m
+[32m+[m[32m    <meta http-equiv='X-UA-Compatible' content='IE=edge'>[m
+[32m+[m[32m    <title>Page Title</title>[m
+[32m+[m[32m    <meta name='viewport' content='width=device-width, initial-scale=1'>[m
+[32m+[m[32m    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>[m
+[32m+[m[32m    <script src='main.js'></script>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    BODY[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
